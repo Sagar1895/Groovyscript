@@ -1,6 +1,6 @@
 package src.groovy.scripts
 
-def call(String name = 'human') {
+def call(String name = 'sagar') {
 echo "Hello, ${name}."
 }
 
